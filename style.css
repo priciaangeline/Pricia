@@ -53,7 +53,7 @@
     text-align: center;
 }
 .card:hover .servicesIcon {
-    color: #62b3d5;
+    color: #264484;
 }
 .servicesText:hover {
     border: 1px solid #62b3d5;
@@ -66,13 +66,13 @@
     word-spacing: 10px;
 }
 .fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
-    color: #72c0ffe3;
+    color: #ffffffe3;
 }
 .fab {
-    color: #000000;
+    color: #ffffff;
 }
 /* footer styling */
 #footer {
-    background-color: #c5ecff;
+    background-color: #0000007c;
     text-align: center;
 }
